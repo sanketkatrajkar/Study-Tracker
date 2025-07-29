@@ -227,9 +227,9 @@ class StudyTracker
 
         System.out.println("----------------------------------------------------");
     }
-}
+}  /////Studylog class completed
 
-class program558    // StudyTrackerStarter
+class StudyTrackerProject    // StudyTrackerStarter
 {
     public static void main(String A[])
     {
@@ -290,4 +290,6 @@ class program558    // StudyTrackerStarter
         }while(iChoice != 6);
 
     }
-}
+} /// Main class completed ...!
+
+
